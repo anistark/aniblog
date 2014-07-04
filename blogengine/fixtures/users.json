@@ -1,0 +1,38 @@
+[
+{
+  "pk": 1, 
+  "model": "auth.user", 
+  "fields": {
+    "username": "anirudha", 
+    "first_name": "", 
+    "last_name": "", 
+    "is_active": true, 
+    "is_superuser": true, 
+    "is_staff": true, 
+    "last_login": "2014-07-04T18:52:25.401Z", 
+    "groups": [], 
+    "user_permissions": [], 
+    "password": "pbkdf2_sha256$12000$xbLxg6oH0byh$9MkkXvirc72YobjzT56jWg+/c2uKSpLmdJwTipIo9+M=", 
+    "email": "anirudhastark@yahoo.com", 
+    "date_joined": "2014-07-04T18:52:25.401Z"
+  }
+},
+{
+  "pk": 2, 
+  "model": "auth.user", 
+  "fields": {
+    "username": "stark", 
+    "first_name": "", 
+    "last_name": "", 
+    "is_active": true, 
+    "is_superuser": true, 
+    "is_staff": true, 
+    "last_login": "2014-07-04T19:29:42.042Z", 
+    "groups": [], 
+    "user_permissions": [], 
+    "password": "pbkdf2_sha256$12000$45maiB5bWRdo$4tyfxZJVxsW2Su9o35pxRgjF8VlgGOsUz3w5J73+tb0=", 
+    "email": "stark@anitech.com", 
+    "date_joined": "2014-07-04T19:29:42.042Z"
+  }
+}
+]
